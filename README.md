@@ -8,7 +8,9 @@ I prefer to use Linux. It offers good baseline safety, if not for other reason b
 
 But both Mac and Windows invested a lot in security so I suspect there should be safe ways to use them. Comment of post a PR about them if you have information to contributte.
 
-## Email
+## Activities
+
+### Email
 
 Many atacks start from emails:
 
@@ -22,10 +24,15 @@ Advice:
 * Don't download and install or open locally any files that seem in any way suspicious or that you aren't sure the reason you were sent them!
 * Email could be made in a way that it uses voulnarabilty in a email client. It's probably better to use webmail with a safe browser, perhaps FireFox.
 
-## Browsing the web
+### Browsing the web
 
 
-## Downloading files
+### Downloading files
 
 
-## Installing programs
+### Installing programs
+
+## Linux setup
+
+
+##
